@@ -43,7 +43,7 @@ Help strengthen tools for developers in the ecosystem by building things like:
 
 ## 👀 And more...  
 - Build a learn-to-earn model for Cartesi Rollups - Make users complete certain tasks within a Rollups DApp and reward them in form of CTSI vouchers. 
-- Think for DeFi tools that execute compute intensive tasks - An order book exchange, a sophisticated trading bot or think of insurance with IOT inputs.
+- Think for DeFi tools that execute compute intensive tasks - An order book exchange, a sophisticated trading bot or think of insurance based solutions with IOT inputs.
 
 ## Need help? Talk to us!
 Reach out to Cartesi team for support on our [Discord server](https://discord.gg/guBs8XCgeg).
