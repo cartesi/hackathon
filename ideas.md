@@ -29,14 +29,19 @@ Looking to bring something new to the NFT space? Why not try:
 
 ## 🤖 AI/ML Algorithms
 Looking to bring machine learning or AI applications to blockchain? Explore the possibilities with these ideas:
-- Build an m2cgen example with a new target dataset and algorithm. See also: On-chain House price prediction  
-- k-Nearest Neighbour - build DApps using knn algorithm, think of image classification(Refer: Iris Classifier), recommendation systems, signature recognition and more.
-- Build a verifiable compute solution (can be used for Desci)
-- Voice-based account verification 
+- Build an [m2cgen](https://github.com/cartesi/rollups-examples/tree/main/m2cgen#changing-the-application) example with a new target dataset and algorithm. See also: [On-chain House price prediction](https://devfolio.co/projects/ghar-on-chain-a6ce)  
+- k-Nearest Neighbour - build DApps using knn algorithm, think of image classification(Refer: [Iris Classifier](https://github.com/cartesi/rollups-examples/tree/main/knn)), recommendation systems, signature recognition and more.
+- Think of DeSci - Build a verifiable compute solution
+- Voice-based account verification to prove identity on-chain.
 
 ## ⚒️ Utility - Developer tools
 Help strengthen tools for developers in the ecosystem by building things like:
 - Alarm clock - Cron jobs to schedule tasks to run inside the Cartesi Machine
 - IPFS data sharding framework
 - Generic Marketplace framework (using SQLite)
-- Build a template around decentralized oracle for real-world data (IoTEX or software-based solutions)  
+- Build a template around decentralized oracle for real-world data (IoTEX or software-based solutions)
+
+## 👀 And more...  
+- Build a learn-to-earn model for Cartesi Rollups - Make users complete certain tasks within a Rollups DApp and reward them in form of CTSI vouchers. 
+- Think for DeFi tools that execute compute intensive tasks - An order book exchange, a sophisticated trading bot or think of insurance with IOT inputs.
+
