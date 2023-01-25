@@ -11,21 +11,21 @@ Want to do something different in blockchain gaming? Broaden the horizons of wha
 
 ## 👤 Social - Identity - Reputation system
 Explore digital identities in the Web3 era and get inspired by: 
-- Reputation layer - Build automated and user-defined reputation scores within an SQLite database. See also: Attestation Station (Optimism) 
-- Decentralized identicons : Build unique profile pictures using the user's Ethereum address. See also: Blockies 
-- Identity verification - Explore OpenCV applications in a decentralized manner. Refer: Biometrics on Cartesi Rollups 
+- Reputation layer - Build automated and user-defined reputation scores within an SQLite database. See also: [Attestation Station](https://community.optimism.io/docs/governance/attestation-station/#) (Optimism) 
+- Decentralized [identicons](https://en.wikipedia.org/wiki/Identicon) : Build unique profile pictures using the user's Ethereum address. See also: [Blockies](https://github.com/ethereum/blockies) 
+- Identity verification - Explore OpenCV applications in a decentralized manner. Refer: [Biometrics](https://github.com/souzavinny/rollups-examples/tree/dev/biometrics) on Cartesi Rollups 
 
 ## 🌐 Governance - DAOs
-Let’s build better infrastructure for DAOs and communities across the world! Take a look at some ideas to get started:
-- Decentralized Kickstarter (Using: Sqlite + Cartesi Rollups asset deposit and withdraw)
-- Decentralized Voting - A fully decentralized variant of Snapshot running on Cartesi Rollups. Refer: Cartesi Voting DApp 
-- Build a fully decentralized bounties and grants dashboard. See also: Gitcoin 
+Use [SQLite](https://github.com/cartesi/rollups-examples/tree/main/sqlite) and Cartesi Rollups [assets](https://github.com/cartesi/rollups-examples/tree/main/erc20) template to build tools for DAOs. Complement the tools with other ideas discussed here.
+- Decentralized Kickstarter - A tool to raise funding for community projects
+- Decentralized Voting - A fully decentralized variant of [Snapshot](https://snapshot.org/#/) running on Cartesi Rollups. Refer: [Voting DApp](https://github.com/Sotatek-ManhNguyen3/cartesi_voting_system/tree/feature/profiles) on Cartesi Rollups
+- Build a fully decentralized bounties and grants dashboard. See also: [Gitcoin](https://gitcoin.co/) 
 
 ## 🖼️ Art - Dynamic NFTs
 Looking to bring something new to the NFT space? Why not try:
-- Generative art NFT minter - Check Mandelbrot set for NFT designs See also: AutoGlyphs 
-- Self-evolving Soulbound NFTs 
-- AI Artist - Explore the possibilities of a decentralized text-to-image generator. See also: Stable Diffusion
+- Generative art NFT minter - Check [Mandelbrot](https://ethglobal.com/showcase/frmandy-v1gr8) set for NFT designs See also: [AutoGlyphs](https://www.larvalabs.com/autoglyphs) 
+- Self-evolving [Soulbound NFTs](https://vitalik.ca/general/2022/01/26/soulbound.html) 
+- AI Artist - Explore the possibilities of a decentralized text-to-image generator. See also: [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion)
 
 ## 🤖 AI/ML Algorithms
 Looking to bring machine learning or AI applications to blockchain? Explore the possibilities with these ideas:
