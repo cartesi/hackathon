@@ -2,12 +2,12 @@
 
 ## ♟️ Games - Autonomous Worlds
 Want to do something different in blockchain gaming? Broaden the horizons of what we currently know? Check out the following for inspiration:
-- Turn-Based games - Take a look at  Ultrachess  or build something simple like Tic-Tac-Toe to get you started!
-- Card games - Use cryptographic protocols and pre-existing libraries like libTMCG for secure and fair play online. Refer: Poker 
-- Decentralized Sports Betting - See also: FIFA Worldcup betting DApp 
-- AI v AI games - Have bots compete with each other. See also: Screeps  
-- Cellular automaton simulation with game logic - Think of Conway's Game of Life, Wireworld, Forest Fire, Langton’s Ant. Refer: LIFE
-- Other interesting games for inspiration: Core war: 2D CPU, MMO Dwarf fortress, OPCraft
+- Turn-Based games - Take a look at  [Ultrachess](https://github.com/Ultrachess/app)  or build something simple like Tic-Tac-Toe to get you started!
+- Card games - Use cryptographic protocols and pre-existing libraries like [libTMCG](https://www.nongnu.org/libtmcg/) for secure and fair play online. Refer: [Poker](https://github.com/cartesi/poker) 
+- Decentralized Sports Betting - See also: [Ballaum](https://github.com/tuler/ballaum) - FIFA Worldcup betting DApp
+- AI v AI games - Have programmable scripts compete with each other. See also: [Screeps](https://screeps.com/)  
+- Cellular automaton simulation with game logic - Think of Conway's Game of Life, Wireworld, Forest Fire, Langton’s Ant. Refer: [LIFE](https://ethglobal.com/showcase/life-81m99)
+- Other interesting games for inspiration: [Core war](https://en.wikipedia.org/wiki/Core_War): 2D CPU, MMO [Dwarf fortress](https://store.steampowered.com/app/975370/Dwarf_Fortress/), [OPCraft](https://dev.optimism.io/opcraft-autonomous-world/)
 
 ## 👤 Social - Identity - Reputation system
 Explore digital identities in the Web3 era and get inspired by: 
