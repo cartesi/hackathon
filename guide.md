@@ -103,7 +103,7 @@ C. Cartesi cannot handle heavy computations
 
 ### DApp architecture
 
-
+![img](./hla.png)
 
 Each Cartesi DApp has two main parts:
 
