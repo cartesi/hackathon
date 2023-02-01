@@ -5,11 +5,15 @@
 Today there is a large number of developers who want to create applications in the Web 3.0 world but face a steep learning curve and a confusing landscape. [Cartesi](https://cartesi.io/) aims to solve this problem by:
 
 * Enabling more innovation by reusing existing abstractions, such as programming languages and libraries to build more sophisticated applications at a higher pace. 
-*  Growing the pull of use case cases that can be put on-chain.
-* Making Web 3.0 accessible to developers with traditional programming backgrounds who can build DApps using a programming environment they are already familiar with. For example, you can code a DApp using Python without the need to write code in Solidity. 
+*  Growing the pull of use cases that can be put on-chain.
+* Making Web 3.0 accessible to developers with traditional programming backgrounds who can build DApps using a programming environment they are already familiar with. For example, you can code a DApp using Python without the need to write the application code in Solidity. When the app is deployed, a standard Cartesi smart contract will put your DApp on-chain.
 
 In terms of the blockchain trilemma, Cartesi solves the scalability problem by using [Cartesi Optimistic Rollups](https://docs.cartesi.io/cartesi-rollups/overview/) along with the [Cartesi Machine](https://docs.cartesi.io/cartesi-machine/) to support and scale complex computations. By doing this, we will allow developers to use rich code for decentralized applications and bring Web 2.0’s power and expressiveness to Web 3.0.
 
+
+
+
+/// <probably can delete this paragraph> Cartesi provides lower gas and crypto costs. Additionally, if you are a web developer who wants to build a simple application as your first step in blockchain development, with Cartesi you will not be forced to use a blockchain-specific language nor be forced to reinvent the wheel because a certain functionality or math library is not available.
 
 ## Question
 
@@ -31,9 +35,7 @@ A. To offer a full operating system for blockchain applications
 B. To solve the scalability problem using Optimistic Rollups along with the Cartesi Machine to support complex computations
 C. To develop DApps of arbitrary complexity using mainstream development tools and software stacks, and have all of it sit on top of established blockchain networks such as Ethereum, Polygon, Avalanche and BNB Smart Chain
 B. All of the above (Correct Answer)
-
 />
-
 <Section name="2. How Cartesi works" description="How Cartesi works">
 
 ## What is Cartesi
@@ -54,7 +56,7 @@ In the first part, we take the Cartesi machine of both parties off chain, and po
 
 Once the instruction has been found, the second part of the verification game involves sending this instruction to the on-chain implementation of the Cartesi machine, which is a set of on-chain contracts that can emulate each instruction of the Cartesi Machine. The on-chain implementation of the Cartesi machine then executes the instruction to check its validity. In this way we guarantee the security standards of the Ethereum blockchain.
 
-In summary, as long as there is one honest validator, ETH can give the correct settlement.
+In summary, as long as there is one honest validator, Ethereum can give the correct settlement.
 
 
 ## Question
@@ -99,7 +101,9 @@ C. Cartesi cannot handle heavy computations
 
 <Section name="3. Hands-on: Build DApps Now!" description="Steps to run a DApp">
 
-### Hands-on: Build DApps Now!
+### DApp architecture
+
+
 
 Each Cartesi DApp has two main parts:
 
@@ -200,14 +204,7 @@ C. Linux OS
 
 ## Cartesi Rollups
 
-The combination of an [Optimistic Rollups framework](https://github.com/cartesi/rollups) and the [Cartesi Machine Emulator](https://github.com/cartesi/machine-emulator) enables the development of smart contracts and DApps using any package or library that is available for Linux. This allows developers to break free from the scalability limitations of the Ethereum Virtual Machine (EVM), and brings the rise of a new blockchain era to handle real-life and complex use-cases.
-
-A DApp running on Cartesi Rollups consists of the following main components:
-
-* [**Cartesi Rollups**](https://docs.cartesi.io/cartesi-rollups/components/), a set of on-chain and off-chain components that implement an Optimistic Rollups solution and provide the general framework for building DApps.
-* [**Cartesi Machine**](https://docs.cartesi.io/machine/intro/), a virtual machine (VM) that runs an entire Linux OS, in which each DApp's [back-end](../cartesi-rollups/dapp-architecture.md#back-end) is executed.
-* [**DApp Back-end**](https://docs.cartesi.io/cartesi-rollups/dapp-architecture/#back-end), the application's state and verifiable logic, which corresponds to the DApp's smart contract. The back-end runs inside the Cartesi Machine as a regular Linux application.
-* [**DApp Front-end**](https://docs.cartesi.io/cartesi-rollups/dapp-architecture/#front-end), the application's user-facing interface, such as a web app.
+The combination of an [Optimistic Rollups framework](https://github.com/cartesi/rollups) and the [Cartesi Machine Emulator](https://github.com/cartesi/machine-emulator) enables the development of smart contracts and DApps using any package or library that is available for Linux. This allows developers to break free from the scalability limitations of the Ethereum Virtual Machine (EVM), and brings the rise of a new blockchain era to handle real-life and complex use-cases. 
 
 The suggested development process for Cartesi DApps involves a [series of stages](https://docs.cartesi.io/cartesi-rollups/dapp-life-cycle/), from the design of the application up to its final deployment. Although some of those stages involve blockchain or Cartesi-specific procedures, the intention is that developers should be able to code normally using their usual mainstream development environment for 90+% of the work, and to make that possible Cartesi provides some tools and infrastructure.
 
@@ -255,4 +252,3 @@ APIs available for DApp developers to interact with the Cartesi Rollups framewor
 Feel free to ask your questions on StackOverflow or on [Discord](https://discord.gg/Pt2NrnS).
 
 </Section>
-
