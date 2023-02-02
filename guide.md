@@ -228,6 +228,6 @@ APIs available for DApp developers to interact with the Cartesi Rollups framewor
 
 ### [StackOverflow](https://stackoverflow.com/questions/tagged/cartesi)
 
-Feel free to ask your questions on StackOverflow or on [Discord](https://discord.gg/Pt2NrnS).
+Feel free to ask your questions on StackOverflow or in our [Discord](https://discord.gg/Pt2NrnS) channel.
 
 </Section>
