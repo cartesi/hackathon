@@ -108,7 +108,7 @@ C. Cartesi cannot handle heavy computations
 
 Each Cartesi DApp has two main parts:
 
-- **[Front-end](https://docs.cartesi.io/cartesi-rollups/dapp-architecture/#back-end)**: the user facing interface, which will often provide a UI (e.g., a web application) but may also be a command line interface (e.g., a Hardhat task using Ethers, or a command line using Python).
+- **[Front-end](https://docs.cartesi.io/cartesi-rollups/dapp-architecture/#front-end)**: the user facing interface, which will often provide a UI (e.g., a web application) but may also be a command line interface (e.g., a Hardhat task using Ethers, or a command line using Python).
 - **[Back-end](https://docs.cartesi.io/cartesi-rollups/dapp-architecture/#back-end)**: the verifiable logic that will run inside the Cartesi Rollups infrastructure; this will store and update the application state given user input and will produce outputs in the form of [vouchers](https://docs.cartesi.io/cartesi-rollups/components/#vouchers) (transactions that can be carried out on layer-1) and [notices](https://docs.cartesi.io/cartesi-rollups/components/#notices) (information that can be validated on layer-1).
 
 Aside from the back-end running inside the Cartesi Rollups infrastructure, the DApp front-end can, of course, also make use of external resources such as 3rd-party services. Indeed, for more complex DApps it is expected that there will be other back-ends besides the one running verifiable logic. These would be used whenever the application doesn’t really need a service to be decentralized and trustless, such as providing fast and accessible data caches, helping users communicate with each other, or interfacing with other non-blockchain services.
