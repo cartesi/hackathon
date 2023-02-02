@@ -16,7 +16,7 @@ In terms of the blockchain trilemma, Cartesi solves the scalability problem by u
 
 <Quiz id={"????"}
 
-What part of the scalability trilemma does Cartesi address?
+What part of the blockchain trilemma does Cartesi address?
 
 A. Scalability (Correct Answer)
 B. Security
