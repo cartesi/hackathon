@@ -192,9 +192,9 @@ Congratulations, you’ve successfully run a Cartesi DApp!
 
 What does a simple Cartesi DApp consist of?
 
-A. Solidity Smart contracts.
-B. Back-end and front-end as any other traditional applications. (Correct Answer)
-C. Linux OS.
+A. Solidity smart contracts
+B. Back-end and front-end as any other traditional applications (Correct Answer)
+C. Linux OS
 
 />
 
