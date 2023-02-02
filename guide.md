@@ -214,9 +214,9 @@ The home for Cartesi documentation and learning for all kinds of developers, blo
 
 When developing an application, it is often important to easily test and debug it. For that matter, it is possible to run the Cartesi Rollups environment in host mode.
 
-### [DApp Examples](https://github.com/cartesi/rollups-examples)
+### [DApp examples](https://github.com/cartesi/rollups-examples)
 
-Explore our DApps either on our [Github](https://github.com/cartesi/rollups-examples#examples) or on [Docs](https://docs.cartesi.io/build-dapps/run-dapp/#explore-our-dapps)
+Explore our DApps either in our [Github](https://github.com/cartesi/rollups-examples#examples) or [Docs](https://docs.cartesi.io/build-dapps/run-dapp/#explore-our-dapps).
 
 ### [Rollups HTTP APIs](https://docs.cartesi.io/cartesi-rollups/http-api/)
 
