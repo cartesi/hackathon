@@ -70,6 +70,8 @@ The basis of our rollups is the *Cartesi Machine*, a fully deterministic and tra
 
 In summary, as long as there is one honest validator from a permissionless set of validators, Ethereum can give the correct settlement for any computation.   
   
+## Question  
+  
 <Quiz id={"????"}
 
 What types of Rollups does Cartesi use?
