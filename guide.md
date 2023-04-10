@@ -2,7 +2,7 @@
 
 ## Intro to Cartesi
   
-Today, developers who aspire to create applications in the Web 3.0 world are facing two main problems:
+Today, developers who aspire to create applications in the Web3 world are facing two main problems:
 
   1. Computational constraints of the blockchain and high fees.
   2. Lack of a mature software stack for decentralized applications.
