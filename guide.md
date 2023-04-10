@@ -97,7 +97,7 @@ C. All computations happen On-chain
 
 <Section name="3. Using Cartesi" description="How to use Cartesi Rollups">
 
-### DApp Architecture
+## DApp Architecture
 
 
 ![img](./hla.png)
