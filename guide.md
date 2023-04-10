@@ -257,7 +257,7 @@ C. Linux OS
 * [Rollups HTTP APIs](https://docs.cartesi.io/cartesi-rollups/http-api/) — In a Cartesi DApp, the front-end and back-end parts of the application communicate with each other through the Rollups framework. This is accomplished in practice by a set of HTTP APIs.
 * [Rollups HTTP APIs reference](https://docs.cartesi.io/cartesi-rollups/api/) — APIs available for DApp developers to interact with the Cartesi Rollups framework.
 * Watch [Groundbreaking Cartesi Rollups Project Use-cases](https://www.youtube.com/embed/videoseries?list=PL-srLb8IDxZU4_MFqEkri9t802kdYtI4o) or read developer stories on the [Cartesi Magazin](https://issuu.com/cartesi/docs/220830_cartesi_integrators_magazine_def) and know more about the stacks used, and how Web2 devs are onboarded to Web3 via Cartesi Rollups. We also [blog post](https://medium.com/@cartesi) regularly.
-* [StackOverflow](https://stackoverflow.com/questions/tagged/cartesi) — Feel free to ask questions on StackOverflow or on [Discord](https://discord.gg/Pt2NrnS)), core Cartesi contributors and the wider developer ecosystem always eager to help.
+* [StackOverflow](https://stackoverflow.com/questions/tagged/cartesi) — Feel free to ask questions on StackOverflow or on [Discord](https://discord.gg/Pt2NrnS), core Cartesi contributors and the wider developer ecosystem always eager to help.
 
 </Section>
   
