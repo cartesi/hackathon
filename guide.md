@@ -15,9 +15,9 @@ Ethereum’s rollups-centric roadmap divides the *Scalability* problem of the bl
 
 Rollups solutions are poised to break the *computational* constraints of blockchains. One particular solution that offers significant gains in computational scalability is application-specific rollups with interactive dispute resolutions, built on top of a general-purpose base layer. In this setup, the base layer is used for asset settlement, composability between applications, and dispute resolution, whereas the bulk of the computation is shifted to each application’s own rollup.  
   
-## Lack of a mature software stack for Web 3.0
+## Lack of a mature software stack for Web3
   
-In traditional Web 2.0 software development, a full-fledged operating system provides developers with the tooling and libraries required to build and run applications. Despite the promising potential of Web 3.0, the availability of essential tooling and libraries remains scarce and inadequate.
+In traditional Web2 software development, a full-fledged operating system provides developers with the tooling and libraries required to build and run applications. Despite the promising potential of Web3, the availability of essential tooling and libraries remains scarce and inadequate.
 
 *Cartesi Rollups* solve this problem by providing a deterministic RISC-V-based VM - the [*Cartesi Machine*](https://docs.cartesi.io/cartesi-machine/) - which is capable of running Linux or other operating systems in a rollup. By doing this, Cartesi brings a computer like the ones we use everyday to the blockchain and allows developers to use rich preexisting code, libraries, tools, operating systems, compilers, interpreters, frameworks, databases and ecosystems for decentralized applications.   
 
@@ -39,7 +39,7 @@ C. Decentralization
 What challenges Cartesi aims to solve?
   
 A. Computational constraints of the blockchain.
-B. Lack of a mature runtime software stacks for Web 3.0.
+B. Lack of a mature runtime software stacks for Web3.
 C. All of the above (Correct Answer)
 
 
