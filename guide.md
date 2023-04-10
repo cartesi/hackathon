@@ -1,3 +1,5 @@
+Build scalable DApps in any mainstream software stack, be it Python with NumPy, or Rust with all its crates. Use all the fancy cryptography libraries in vogue, or any sophisticated machine learning framework of choice.
+
 <Section name="1. Introduction" description="Introduction to Cartesi">
 
 ## Intro to Cartesi
