@@ -11,7 +11,7 @@ Want to do something different in blockchain gaming? Broaden the horizons of wha
 
 ## 👤 Social - Identity - Reputation system
 Explore digital identities in the Web3 era and get inspired by: 
-- Reputation layer - Build automated and user-defined reputation scores within an SQLite database. See also: [Attestation Station](https://community.optimism.io/docs/governance/attestation-station/#) (Optimism) 
+- Reputation layer - Build automated and user-defined reputation scores within an SQLite database. See also: [Attestation Station](https://community.optimism.io/docs/identity/atst-v1/) (Optimism) 
 - Decentralized [identicons](https://en.wikipedia.org/wiki/Identicon) : Build unique profile pictures using the user's Ethereum address. See also: [Blockies](https://github.com/ethereum/blockies) 
 - Identity verification - Explore OpenCV applications in a decentralized manner. Refer: [Biometrics](https://github.com/souzavinny/rollups-examples/tree/dev/biometrics) on Cartesi Rollups 
 
